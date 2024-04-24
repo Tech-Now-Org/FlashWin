@@ -29,9 +29,9 @@ FlashWin can be installed on Windows systems by following these steps:
    cd FlashWin
    ```
 
-3. Run the main.py script with the path to the software executable as an argument:
+3. Run the main.py script and set the path to the software executable in script :
    ```bash
-   python main.py "path/to/software.exe"
+   python main.py
    ```
 
 ## Usage
